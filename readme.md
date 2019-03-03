@@ -33,3 +33,7 @@
 
 ### Spotify API
 
+<img src="./ss/browse.jpg">
+<img src="./ss/login.jpg">
+<img src="./ss/playlist.jpg">
+<img src="./ss/songstart.jpg">
