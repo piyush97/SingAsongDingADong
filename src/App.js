@@ -1,5 +1,16 @@
 import React, { useState } from "react";
 import "./App.css";
+import Button from '@material-ui/core/Button';
+import { withStyles } from '@material-ui/core/styles';
+
+const styles = theme => ({
+  button: {
+    margin: theme.spacing.unit,
+  },
+  input: {
+    display: 'none',
+  },
+});
 
 function Todo({ todo, index, completeTodo, removeTodo }) {
   return (
@@ -10,8 +21,8 @@ function Todo({ todo, index, completeTodo, removeTodo }) {
       {todo.text}
 
       <div>
-        <button onClick={() => completeTodo(index)}>Complete</button>
-        <button onClick={() => removeTodo(index)}>x</button>
+        <Button color="primary" onClick={() => completeTodo(index)}>Complete</Button>
+        <Button color="primary" onClick={() => removeTodo(index)}>x</Button>
       </div>
     </div>
   );
@@ -90,4 +101,4 @@ function App() {
   );
 }
 
-export default App;
+export default withStyles(styles)(App);

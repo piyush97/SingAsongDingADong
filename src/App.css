@@ -12,12 +12,12 @@
 }
 
 .todo {
-  background: rgb(55, 53, 53);
+  background: #fff;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
   padding: 3px 10px;
   font-size: 22px;
   margin-bottom: 6px;
-  color: #fff;
+  color: #111;
   border-radius: 3px;
   display: flex;
   min-height: 140px;
