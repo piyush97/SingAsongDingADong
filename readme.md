@@ -1,8 +1,14 @@
 # Sing A Song Ding A Dong
 
 [![Build Status](https://travis-ci.com/piyush97/SingAsongDingADong.svg?token=g3CxDf8EXQoxGMAHdh9U&branch=master)](https://travis-ci.com/piyush97/SingAsongDingADong)
-
 > Web App on react to create Playlist on Spotify, stream 30 seconds of the song.
+
+> If you don't have a spotify account, don't worry, you can use the following credentials:
+
+> email: spotifyreact@gmail.com
+
+> password: Example
+
 
 # Tech for building:
 
