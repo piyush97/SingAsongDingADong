@@ -1,5 +1,8 @@
 # Sing A Song Ding A Dong
->> Web App on react to create Playlist on Spotify, stream 30 seconds of the song.
+
+[![Build Status](https://travis-ci.com/piyush97/SingAsongDingADong.svg?token=g3CxDf8EXQoxGMAHdh9U&branch=master)](https://travis-ci.com/piyush97/SingAsongDingADong)
+
+> Web App on react to create Playlist on Spotify, stream 30 seconds of the song.
 
 # Tech for building:
 
