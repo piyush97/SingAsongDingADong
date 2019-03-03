@@ -8,17 +8,19 @@
   background: #e8e8e8;
   border-radius: 4px;
   padding: 5px;
-  max-width: 400px;
+  max-width: 100%;
 }
 
 .todo {
-  background: #fff;
+  background: rgb(55, 53, 53);
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
   padding: 3px 10px;
-  font-size: 12px;
+  font-size: 22px;
   margin-bottom: 6px;
+  color: #fff;
   border-radius: 3px;
   display: flex;
+  min-height: 140px;
   align-items: center;
   justify-content: space-between;
 }
