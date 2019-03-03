@@ -18,6 +18,12 @@
 2. eslint
 3. jest
 
+
+# How to run
+1. # `npm i`
+2. # `npm start`
+
 # login and Songs
 
 ### Spotify API
+
