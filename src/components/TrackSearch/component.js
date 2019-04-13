@@ -1,3 +1,4 @@
+/* eslint-disable no-mixed-spaces-and-tabs */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import './TrackSearch.css';
